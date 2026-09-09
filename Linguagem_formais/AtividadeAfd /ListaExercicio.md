@@ -787,7 +787,7 @@ F = {Aberta}
 
 **### Evidência no JFLAP**
 
-![Diagrama do AFD](imagens/afd.png)
+![AFD e testes realizados no JFLAP](imagens/afd.png)
 
 **### Conclusão**
 
